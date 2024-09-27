@@ -6,7 +6,4 @@
 
 - LITA_CLASS_DOCUMENTATION
 
-```SQL
-select * from table1
-where condition=true
-```
+
