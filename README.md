@@ -4,7 +4,14 @@
 
 [Project Overview](#project-overview)
 
+[Data Sources](#data-sources)
+
+[Tools used](#tools-used)
+
+
+
 ### Project Overview 
+------
 Excel learning involves acquiring skills to effectively use Microsoft Excel for tasks like data entry, analysis, and visualization. It typically covers:
       Basic Functions: Understanding the interface, entering data, and using simple formulas (e.g., SUM, AVERAGE).
       Data Manipulation: Learning to sort, filter, and format data to make it more readable.
@@ -59,6 +66,10 @@ Here we included some basic line of codes and functions used during our Analysis
 
   ### Data Visualization
   ![Gitub pratice](https://github.com/user-attachments/assets/84b12e48-bb6e-44de-99f5-2fd5bea088a3)
+
+
+  |Name:|Ldia|Obong|
+  |-----|----|-----|
 
 
 
