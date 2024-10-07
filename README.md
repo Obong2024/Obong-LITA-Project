@@ -2,6 +2,8 @@
 
 ### Project Title: Analsysis of sales and report
 
+[Project Overview](#project-overview)
+
 ### Project Overview 
 Excel learning involves acquiring skills to effectively use Microsoft Excel for tasks like data entry, analysis, and visualization. It typically covers:
       Basic Functions: Understanding the interface, entering data, and using simple formulas (e.g., SUM, AVERAGE).
