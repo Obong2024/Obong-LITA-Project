@@ -28,11 +28,18 @@ Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
 ### Tools used
 
   -Microsoft Excel Application: [download here](https://www.microsoft.com/en-ng/)
+  Learning Microsoft Excel can open up a wide range of possibilities, both personally and professionally. Here are some key areas where Excel skills can be beneficial:
 
    1. For Data Cleansing
    2. For Data Analysis
    3. For creating a Pivot table
-   4. For Data Viewsualization
+   4. For Automation
+   5. For Financial Modeling
+   6. For Project Management
+   7. For Reporting
+   8. For Automation
+   9. For Inventory Management
+   10. For Data Entry and Tracking
 
 -SQL- Structured query Language for managing Data in Relational Database management system. (RDBMS) [download here](http://www.microsoft.com/sql-sever-download)
 
