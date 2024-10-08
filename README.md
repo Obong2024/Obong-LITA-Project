@@ -121,7 +121,9 @@ Here we included some basic line of codes and functions used during our Analysis
 - Created a chart to visualize the sales
 
   ### Data Visualization
-  ![Gitub pratice](https://github.com/user-attachments/assets/84b12e48-bb6e-44de-99f5-2fd5bea088a3)
+  
+  
+   ![Github pratice](https://github.com/user-attachments/assets/84b12e48-bb6e-44de-99f5-2fd5bea088a3)
   💻
   🖱️
 
