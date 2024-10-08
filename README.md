@@ -59,6 +59,11 @@ Learning SQL (Structured Query Language) can open up a wide range of possibiliti
 
 2. Data Analysis
 
+```SQL
+Selct * from Employee
+WHERE CONDITION = TRUE
+```
+
 - Exploratory Data Analysis: SQL is a powerful tool for analyzing large datasets, summarizing data using aggregation functions (SUM, COUNT, AVG, GROUP BY), and filtering results.
 - Advanced Queries: Learn how to use JOINs, subqueries, window functions, and Common Table Expressions (CTEs) to perform complex data analysis.
 - Business Intelligence: SQL is a fundamental skill in BI tools like Power BI, Tableau, and Looker. These tools allow users to visualize data and create dashboards, often querying databases directly with SQL.
@@ -124,9 +129,7 @@ Here we included some basic line of codes and functions used during our Analysis
   
   
  
-   ![Github pratice](https://github.com/user-attachments/assets/84b12e48-bb6e-44de-99f5-2fd5bea088a3)
-
-  💻
+  
   🖱️
 
   |Name:|Lydia|Obong|
