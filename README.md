@@ -27,7 +27,7 @@ Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
 
 ### Tools used
 
-  - Microsoft Excel Application: [download here](https://www.microsoft.com/en-ng/)
+  - ### Microsoft Excel Application: [download here](https://www.microsoft.com/en-ng/)
 
   Learning Microsoft Excel can open up a wide range of possibilities, both personally and professionally. Here are some key areas where Excel skills can be beneficial:
 
@@ -42,22 +42,46 @@ Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
    9. For Inventory Management
    10. For Data Entry and Tracking
 
-- SQL- (Structured query Language): [download here](http://www.microsoft.com/sql-sever-download)
+- ### SQL- (Structured query Language): [download here](http://www.microsoft.com/sql-sever-download)
 
 
 Learning SQL (Structured Query Language) can open up a wide range of possibilities, especially in the field of data management, analysis, and application development. Here are some key areas where SQL knowledge can be applied:
 
 1. Database Management
-Querying Databases: SQL is used to retrieve data from relational databases like MySQL, PostgreSQL, SQL Server, and Oracle. You can perform basic queries (SELECT, WHERE, JOIN, etc.) to fetch data.
-Inserting, Updating, and Deleting Data: You can modify data in a database using SQL commands (INSERT, UPDATE, DELETE).
-Creating and Managing Database Structures: SQL allows you to create databases and tables, define columns, set data types, and specify relationships between tables.
-Indexes and Constraints: You can create indexes for better query performance and set constraints to maintain data integrity (like PRIMARY KEY, FOREIGN KEY, UNIQUE, etc.).
-2. Data Analysis
-Exploratory Data Analysis: SQL is a powerful tool for analyzing large datasets, summarizing data using aggregation functions (SUM, COUNT, AVG, GROUP BY), and filtering results.
-Advanced Queries: Learn how to use JOINs, subqueries, window functions, and Common Table Expressions (CTEs) to perform complex data analysis.
-Business Intelligence: SQL is a fundamental skill in BI tools like Power BI, Tableau, and Looker. These tools allow users to visualize data and create dashboards, often querying databases directly with SQL.
 
-- Github For Portfolio building: [download here](http://www.github.com/en-ng)
+- Querying Databases: SQL is used to retrieve data from relational databases like MySQL, PostgreSQL, SQL Server, and Oracle. You can perform basic queries (SELECT, WHERE, JOIN, etc.) to fetch data.
+
+- Inserting, Updating, and Deleting Data: You can modify data in a database using SQL commands (INSERT, UPDATE, DELETE).
+
+- Creating and Managing Database Structures: SQL allows you to create databases and tables, define columns, set data types, and specify relationships between tables.
+
+- Indexes and Constraints: You can create indexes for better query performance and set constraints to maintain data integrity (like PRIMARY KEY, FOREIGN KEY, UNIQUE, etc.).
+
+2. Data Analysis
+
+- Exploratory Data Analysis: SQL is a powerful tool for analyzing large datasets, summarizing data using aggregation functions (SUM, COUNT, AVG, GROUP BY), and filtering results.
+- Advanced Queries: Learn how to use JOINs, subqueries, window functions, and Common Table Expressions (CTEs) to perform complex data analysis.
+- Business Intelligence: SQL is a fundamental skill in BI tools like Power BI, Tableau, and Looker. These tools allow users to visualize data and create dashboards, often querying databases directly with SQL.
+
+- ### Github For Portfolio building: [download here](http://www.github.com/en-ng)
+
+Learning GitHub provides you with the ability to manage, collaborate, and deploy code efficiently. GitHub is a cloud-based platform that uses Git (a version control system) and offers many features that are vital to software development, project collaboration, and DevOps. Here are some key things you can do with GitHub:
+
+ 1. ### Version Control
+- Track Changes: GitHub allows you to track every change made to your codebase. This means you can see what was changed, when it was changed, and by whom.
+- Revert to Previous Versions: With version control, you can revert to earlier versions of your project if something goes wrong.
+- Branching: GitHub enables you to create branches (copies of your main codebase) where you can work on new features or experiments without affecting the main project.
+- Merging: Once changes are approved, you can merge branches back into the main branch, incorporating updates or features.
+
+2. ### Portfolio Building
+- Showcase Projects: GitHub is a popular platform for showcasing your work. You can use it as a portfolio to display code samples, projects, and contributions to potential employers or collaborators.
+- Host Personal Projects: Even if you're not working with a team, GitHub is great for managing your own projects, keeping them organized, and tracking progress over time.
+
+3. ### Collaboration and Teamwork
+- Collaborating on Projects: GitHub is perfect for teams, as multiple developers can work on the same project simultaneously without overwriting each other’s work.
+- Pull Requests: You can contribute to other people’s projects by submitting pull requests (suggested changes), which project maintainers can review, discuss, and approve or reject.
+- Code Reviews: Teams can review and discuss code changes, suggest improvements, or approve pull requests to ensure quality and consistency.
+- Issue Tracking: GitHub provides issue tracking tools where team members can report bugs, suggest new features, or discuss project improvements.
 
 
 - PowerBI Is a Data viewsualization tool
