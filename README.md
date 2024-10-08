@@ -27,7 +27,7 @@ Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
 
 ### Tools used
 
-  - ### Microsoft Excel Application: [download here](https://www.microsoft.com/en-ng/)
+  - ## Microsoft Excel Application: [download here](https://www.microsoft.com/en-ng/)
 
   Learning Microsoft Excel can open up a wide range of possibilities, both personally and professionally. Here are some key areas where Excel skills can be beneficial:
 
@@ -42,12 +42,12 @@ Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
    9. For Inventory Management
    10. For Data Entry and Tracking
 
-- ### SQL- (Structured query Language): [download here](http://www.microsoft.com/sql-sever-download)
+- ## SQL- (Structured query Language): [download here](http://www.microsoft.com/sql-sever-download)
 
 
 Learning SQL (Structured Query Language) can open up a wide range of possibilities, especially in the field of data management, analysis, and application development. Here are some key areas where SQL knowledge can be applied:
 
-1. Database Management
+1. ### Database Management
 
 - Querying Databases: SQL is used to retrieve data from relational databases like MySQL, PostgreSQL, SQL Server, and Oracle. You can perform basic queries (SELECT, WHERE, JOIN, etc.) to fetch data.
 
@@ -63,7 +63,7 @@ Learning SQL (Structured Query Language) can open up a wide range of possibiliti
 - Advanced Queries: Learn how to use JOINs, subqueries, window functions, and Common Table Expressions (CTEs) to perform complex data analysis.
 - Business Intelligence: SQL is a fundamental skill in BI tools like Power BI, Tableau, and Looker. These tools allow users to visualize data and create dashboards, often querying databases directly with SQL.
 
-- ### Github For Portfolio building: [download here](http://www.github.com/en-ng)
+- ## Github For Portfolio building: [download here](http://www.github.com/en-ng)
 
 Learning GitHub provides you with the ability to manage, collaborate, and deploy code efficiently. GitHub is a cloud-based platform that uses Git (a version control system) and offers many features that are vital to software development, project collaboration, and DevOps. Here are some key things you can do with GitHub:
 
@@ -84,14 +84,23 @@ Learning GitHub provides you with the ability to manage, collaborate, and deploy
 - Issue Tracking: GitHub provides issue tracking tools where team members can report bugs, suggest new features, or discuss project improvements.
 
 
-- ### PowerBI Is a Data viewsualization tool [download here](http://www.powerBI.com/en-ng)
+- ## PowerBI Is a Data viewsualization tool [download here](http://www.powerBI.com/en-ng)
 
 Learning Power BI, Microsoft’s business intelligence and data visualization tool, can unlock a wide range of opportunities for data-driven decision-making, reporting, and analytics. Here’s what you can do with Power BI once you’ve gained proficiency:
+1. ### Data Visualization and Reporting
+- Interactive Dashboards: Power BI allows you to create visually rich, interactive dashboards. You can represent data in various formats (charts, graphs, maps, etc.) that are easy to - understand for stakeholders.
+- Custom Visuals: You can use a variety of built-in visuals and also import custom visuals from Power BI’s marketplace or create your own to display complex data in a user-friendly format.
+- Real-Time Dashboards: Power BI supports real-time data streaming, so you can create live dashboards that are continuously updated as new data comes in.
+2. ### Collaboration and Sharing
+- Sharing Dashboards and Reports: Power BI makes it easy to share reports and dashboards with others within the organization or externally. You can share reports directly, publish them to the web, or embed them in websites or apps.
+- Power BI Service: You can publish your reports to the Power BI service (PowerBI.com) where others can interact with them in the cloud. This allows for centralized access to the latest data and insights.
+- Power BI Mobile App: The Power BI mobile app allows users to access their reports and dashboards from anywhere on mobile devices, ensuring that decision-makers have access to real-time data at their fingertips.
+
 ### Data Cleaning And Preparation
 
 In the initial phase of Data Cleaning and preparation, we performed the following actions;
 
--Data Loading and Inpection
+- Data Loading and Inpection
 - Handling missing variables
 - Data Cleaning and formatting
 
