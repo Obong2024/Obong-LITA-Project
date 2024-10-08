@@ -44,6 +44,7 @@ Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
 
 - SQL- (Structured query Language): [download here](http://www.microsoft.com/sql-sever-download)
 
+
 Learning SQL (Structured Query Language) can open up a wide range of possibilities, especially in the field of data management, analysis, and application development. Here are some key areas where SQL knowledge can be applied:
 
 1. Database Management
@@ -56,7 +57,8 @@ Exploratory Data Analysis: SQL is a powerful tool for analyzing large datasets, 
 Advanced Queries: Learn how to use JOINs, subqueries, window functions, and Common Table Expressions (CTEs) to perform complex data analysis.
 Business Intelligence: SQL is a fundamental skill in BI tools like Power BI, Tableau, and Looker. These tools allow users to visualize data and create dashboards, often querying databases directly with SQL.
 
-- Github For Portfolio building
+- Github For Portfolio building: [download here](http://www.github.com/en-ng)
+
 
 - PowerBI Is a Data viewsualization tool
 
