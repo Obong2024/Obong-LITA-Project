@@ -27,7 +27,8 @@ Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
 
 ### Tools used
 
-  -Microsoft Excel Application: [download here](https://www.microsoft.com/en-ng/)
+  - Microsoft Excel Application: [download here](https://www.microsoft.com/en-ng/)
+
   Learning Microsoft Excel can open up a wide range of possibilities, both personally and professionally. Here are some key areas where Excel skills can be beneficial:
 
    1. For Data Cleansing
@@ -41,11 +42,23 @@ Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
    9. For Inventory Management
    10. For Data Entry and Tracking
 
--SQL- Structured query Language for managing Data in Relational Database management system. (RDBMS) [download here](http://www.microsoft.com/sql-sever-download)
+- SQL- (Structured query Language): [download here](http://www.microsoft.com/sql-sever-download)
 
--Github For Portfolio building
+Learning SQL (Structured Query Language) can open up a wide range of possibilities, especially in the field of data management, analysis, and application development. Here are some key areas where SQL knowledge can be applied:
 
--PowerBI Is a Data viewsualization tool
+1. Database Management
+Querying Databases: SQL is used to retrieve data from relational databases like MySQL, PostgreSQL, SQL Server, and Oracle. You can perform basic queries (SELECT, WHERE, JOIN, etc.) to fetch data.
+Inserting, Updating, and Deleting Data: You can modify data in a database using SQL commands (INSERT, UPDATE, DELETE).
+Creating and Managing Database Structures: SQL allows you to create databases and tables, define columns, set data types, and specify relationships between tables.
+Indexes and Constraints: You can create indexes for better query performance and set constraints to maintain data integrity (like PRIMARY KEY, FOREIGN KEY, UNIQUE, etc.).
+2. Data Analysis
+Exploratory Data Analysis: SQL is a powerful tool for analyzing large datasets, summarizing data using aggregation functions (SUM, COUNT, AVG, GROUP BY), and filtering results.
+Advanced Queries: Learn how to use JOINs, subqueries, window functions, and Common Table Expressions (CTEs) to perform complex data analysis.
+Business Intelligence: SQL is a fundamental skill in BI tools like Power BI, Tableau, and Looker. These tools allow users to visualize data and create dashboards, often querying databases directly with SQL.
+
+- Github For Portfolio building
+
+- PowerBI Is a Data viewsualization tool
 
 ### Data Cleaning And Preparation
 
