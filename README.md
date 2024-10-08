@@ -84,8 +84,9 @@ Learning GitHub provides you with the ability to manage, collaborate, and deploy
 - Issue Tracking: GitHub provides issue tracking tools where team members can report bugs, suggest new features, or discuss project improvements.
 
 
-- PowerBI Is a Data viewsualization tool
+- ### PowerBI Is a Data viewsualization tool [download here](http://www.powerBI.com/en-ng)
 
+Learning Power BI, Microsoft’s business intelligence and data visualization tool, can unlock a wide range of opportunities for data-driven decision-making, reporting, and analytics. Here’s what you can do with Power BI once you’ve gained proficiency:
 ### Data Cleaning And Preparation
 
 In the initial phase of Data Cleaning and preparation, we performed the following actions;
