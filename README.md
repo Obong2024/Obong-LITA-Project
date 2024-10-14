@@ -23,9 +23,10 @@ I am a data analyst in training with an incubator hub, where I am developing exp
 The goal of this project is to gather and analyze data from diverse regions, stores, and markets to deliver actionable insights that guide business strategies, boost operational efficiency, and enhance customer satisfaction. Understanding key metrics like revenue, units sold, and transaction categories across various regions and stores is essential for driving business decisions and optimizing performance. By systematically collecting and analyzing this data, the project offers valuable insights into sales trends, product performance, and market dynamics over time.
 
 
-### Data Sources
+### Project Objectives
 There are many great resources available for learning Excel. Here are some popular options:
 Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
+Here are some key objectives of learning 
 
 
 ### Tools used
