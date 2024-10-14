@@ -24,10 +24,12 @@ The goal of this project is to gather and analyze data from diverse regions, sto
 
 
 ### Project Objectives
-There are many great resources available for learning Excel. Here are some popular options:
-Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
 
-Here are some key objectives of learning 
+The objectives of this project were defined to accomplish the following analytical goals:
+- Data Collection: Gather comprehensive data on revenue, units sold, and transaction categories across different stores and regions.
+- Trend Analysis: Examine historical data to uncover trends and patterns in revenue, unit sales, and transaction types over designated timeframes.
+- Performance Metrics: Define key performance indicators (KPIs) to assess sales performance and track growth across product categories.
+- Reporting: Create detailed reports that encapsulate the findings and offer strategic recommendations based on the analysis.
 
 
 ### Tools used
