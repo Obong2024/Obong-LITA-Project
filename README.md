@@ -11,6 +11,11 @@ I am a data analyst in training with an incubator hub, where I am developing exp
 
 [Key Performance Metrics](#key-performance-metrics)
 
+[Tools Used](#tools-used)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 
 
 ### Project Overview 
