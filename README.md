@@ -1,6 +1,7 @@
 # LITA_CLASS_DOCUMENTATION
 
-I am a data analyst in training with an incubator hub, where I am developing expertise in data manipulation, analysis, and visualization. This immersive experience is deepening my understanding of data-driven decision-making, enabling me to uncover significant patterns and insights through practical, project-based learning.
+I am a data analyst in training with LADIES IN TECH AFRICA INCUBATOR HUB, where I am developing expertise in data manipulation, analysis, and visualization. This immersive experience is deepening my understanding of data-driven decision-making, enabling me to uncover significant patterns and insights through practical, project-based learning.
+
 ### Project Title: In-Depth Sales Data Analysis for Improved Business Insights
 
 [Project Overview](#project-overview)
@@ -73,6 +74,12 @@ These datasets offer a holistic perspective on sales performance, customer behav
 - Pivot Tables: Used for summarizing data and deriving insights related to revenue, units sold, and transaction categories.
 - Formulas and Functions: Essential for calculating performance metrics and automating tasks such as sorting and filtering data.
 - Data Visualizations (Charts and Graphs): Employed to produce visual representations of trends, comparisons, and critical insights.
+
+### Exploratory Data Analysis (EDA):
+Exploratory Data Analysis (EDA) involves examining the data to address various questions, such as:
+- What is the total revenue generated in each region?
+- Which models experience the highest sales?
+- Which store has the lowest number of units sold?
 
   Learning Microsoft Excel can open up a wide range of possibilities, both personally and professionally. Here are some key areas where Excel skills can be beneficial:
 
