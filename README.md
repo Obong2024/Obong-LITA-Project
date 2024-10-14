@@ -20,12 +20,7 @@ I am a data analyst in training with an incubator hub, where I am developing exp
 
 ### Project Overview 
 ------
-Excel learning involves acquiring skills to effectively use Microsoft Excel for tasks like data entry, analysis, and visualization. It typically covers:
-      Basic Functions: Understanding the interface, entering data, and using simple formulas (e.g., SUM, AVERAGE).
-      Data Manipulation: Learning to sort, filter, and format data to make it more readable.
-      Advanced Functions: Utilizing more complex formulas and functions (e.g., VLOOKUP, IF statements) for data analysis.
-      Charts and Graphs: Creating visual representations of data to identify trends and insights.
-      Pivot Tables: Summarizing large datasets for quick analysis and reporting.
+The goal of this project is to gather and analyze data from diverse regions, stores, and markets to deliver actionable insights that guide business strategies, boost operational efficiency, and enhance customer satisfaction. Understanding key metrics like revenue, units sold, and transaction categories across various regions and stores is essential for driving business decisions and optimizing performance. By systematically collecting and analyzing this data, the project offers valuable insights into sales trends, product performance, and market dynamics over time.
 
 
 ### Data Sources
