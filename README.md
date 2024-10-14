@@ -24,6 +24,7 @@ The goal of this project is to gather and analyze data from diverse regions, sto
 
 
 ### Project Objectives
+------
 
 The objectives of this project were defined to accomplish the following analytical goals:
 - Data Collection: Gather comprehensive data on revenue, units sold, and transaction categories across different stores and regions.
@@ -32,9 +33,46 @@ The objectives of this project were defined to accomplish the following analytic
 - Reporting: Create detailed reports that encapsulate the findings and offer strategic recommendations based on the analysis.
 
 
-### Tools used
+### Data Sources
+------
 
-  - ## Microsoft Excel Application: [download here](https://www.microsoft.com/en-ng/)
+The data sources consist of the following key elements:
+1.	Revenue: Refers to the total income generated from sales transactions.
+2.	Units Sold: Indicates the number of products sold during a specific time period.
+3.	Region: Denotes the geographical areas where the stores are located.
+4.	Market: Refers to specific segments within a larger region, capturing various demographics and economic conditions.
+5.	Transaction Category: Classifies sales transactions into different types (e.g., online, in-store, returns) to analyze customer behavior and assess the performance of sales channels.
+6.	Store: Represents individual retail locations or outlets.
+7.	Trade Date: Indicates the date on which transactions took place.
+8.	Fiscal Period: Represents the timeframes used for financial reporting (such as quarters or months) to assess performance against budgets and forecasts.
+9.	Model: Refers to the specific type or brand of products available for sale.
+10.	Line of Business: Represents the various sectors or categories under which products or services are categorized.
+11.	Day: Indicates the specific days of the week when transactions occur.
+12.	Category: Classifies products based on shared characteristics or functions.
+
+#### Note that; 
+These datasets offer a holistic perspective on sales performance, customer behavior, and market dynamics, facilitating informed decision-making.
+
+
+### Key Performance Metrics
+------
+
+(i) Revenue: This is the total sales income generated from various regions and stores.
+
+(ii) Units Sold: This refers to total quantity of units of products sold at a specific period across different regions and stores.
+
+(iii) Transaction Categories: This is simply the classification of transactions to analyze customer purchasing behavior.
+
+
+### Used Tools
+---------
+
+
+### Microsoft Excel: [download here](https://www.microsoft.com/en-ng/)
+
+- Pivot Tables: Used for summarizing data and deriving insights related to revenue, units sold, and transaction categories.
+- Formulas and Functions: Essential for calculating performance metrics and automating tasks such as sorting and filtering data.
+- Data Visualizations (Charts and Graphs): Employed to produce visual representations of trends, comparisons, and critical insights.
 
   Learning Microsoft Excel can open up a wide range of possibilities, both personally and professionally. Here are some key areas where Excel skills can be beneficial:
 
