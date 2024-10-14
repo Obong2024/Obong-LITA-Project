@@ -1,12 +1,15 @@
 # LITA_CLASS_DOCUMENTATION
 
-### Project Title: Analsysis of sales and report
+I am a data analyst in training with an incubator hub, where I am developing expertise in data manipulation, analysis, and visualization. This immersive experience is deepening my understanding of data-driven decision-making, enabling me to uncover significant patterns and insights through practical, project-based learning.
+### Project Title: In-Depth Sales Data Analysis for Improved Business Insights
 
 [Project Overview](#project-overview)
 
+[Project Objectives](#project-objectives)
+
 [Data Sources](#data-sources)
 
-[Tools used](#tools-used)
+[Key Performance Metrics](#key-performance-metrics)
 
 
 
