@@ -26,6 +26,7 @@ The goal of this project is to gather and analyze data from diverse regions, sto
 ### Project Objectives
 There are many great resources available for learning Excel. Here are some popular options:
 Online Courses: Coursera, Udemy, Linkedin Learning and Yutube Channels
+
 Here are some key objectives of learning 
 
 
